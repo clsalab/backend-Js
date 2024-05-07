@@ -1,0 +1,89 @@
+Para crear Users
+{
+    "username": "Cleiber Salas",
+    "useremail": "clsalab@gmail.com",
+    "userpassword": "Tb1234",
+    "userestado": "activo",
+    "userroles": "user",
+    "mediaId":"62271512ee5081a7027e636a"
+}
+
+Para crear Cita
+{
+    "citNumDocPaciente": "1040493242",
+    "citNombrePaciente": "Cleiber Salas",
+    "citEPSPaciente": "Coosalud",
+    "citMedico": "Dr. Blanco",
+    "citEspecialidad": "Colsulta general",
+    "citFecha": "2023/10/16",
+    "citHora": "02:00pm",
+    "citColsultorio": "Consultorio 3",
+    "citEstado": "Activa",
+    "citObservacion": "Asistir a la cita 20 minutos antes",
+    "citNumAprobaion": 1001
+  }
+
+  Para crear Consultorio
+  {
+    "conNombre": "Consultorio 1",
+    "conUbicacion": "Piso1 - bloque1",
+    "conEspecialidad": "Consulta General",
+    "conEstado": "activo"
+}
+
+Para crear IPS
+{
+    "ipsNIT": 8945683493,
+    "ipsNombres": "Consultorio Medico",
+    "ipsFechaNacimiento": "2005/02/20",
+    "ipsTelefono": 8370543,
+    "ipsCorreo": "consultoriomedico@gmail.com",
+    "ipsEstado": "activo"
+}
+
+Para crear Medico
+{
+    "medTipoDoc": "Cedula",
+    "medNumDoc": 3983565,
+    "medNombres": "Medico1",
+    "medApellidos": "ApellidoMedico1",
+    "medEspecialidad": "Medico General",
+    "medFechaNacimiento":"1990/05/19",
+    "medSexo": "Masculino",
+    "medTelefono": 3205403456,
+    "medCorreo": "medico1@gmail.com",
+    "medContraseña": "Medico1",
+    "medEstado": "activo",
+    "userroles": "admin"
+    
+}
+  
+Crear Paciente
+{
+    "pacTipoDoc": "CC",
+    "pacNumDoc": 1040567345,
+    "pacNombres": "Nombre1",
+    "pacApellidos": "Apellidos1",
+    "pacSexo": "M",
+    "pacTelefono": 3204563423,
+    "pacCorreo": "nombre1@gmail.com",
+    "pacEPS": "Coosalud",
+    "pacEstado": "activo",
+    "pacContraseña": "Nombre1",
+    "userroles": "user"  
+}
+
+
+{
+    "citNumDocPaciente": 1040493242,
+    "citNombrePaciente": "Cleiber Salas",
+    "citEPSPaciente": "Coosalud",
+    "citMedico": "Dr. Blanco",
+    "citEspecialidad": "Colsulta general",
+    "citFecha": "2023/10/16",
+    "citHora": "02:00pm",
+    "citColsultorio": "Consultorio 3",
+    "citEstado": "Activa",
+    "citObservacion": "Asistir a la cita 20 minutos antes",
+    "citNumAprobaion": 1001
+  }
